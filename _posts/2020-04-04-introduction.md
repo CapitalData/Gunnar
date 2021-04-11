@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gunnar Kleemann
+title: Gunnar Kleemann, Ph.D.
 ---
 
 Dr. Gunnar Kleemann is ideally poised to build the data science teaching kit for NVIDIA. He has been teaching courses including Python and Data Science and Introduction to Statistics for Data Science at UC Berkeley’s Masters in Data Science (MIDS) program since 2016. He runs a Texas-based data science shop, Austin Capital Data, where he conducts graph-based research. He regularly presents his results at international conferences, most recently at Grakn Cosmos 2020. 
